@@ -1,0 +1,2 @@
+#SEQUELIZE DEMO
+sequelize
